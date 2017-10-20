@@ -1,2 +1,5 @@
 # TestGitHu1
-github tutorial
+Github tutorial
+===============
+
+TestGit is a repository for showing the bare minumin=ms of github and how to make. functions, etc
